@@ -168,8 +168,19 @@ Feel free to reach out for collaborations, freelance projects, or just a chat!
 
 ---
 
+## 🕊️ Dedications
+
+**This work is sincerely dedicated to:**
+
+- 🙏 **My Parents** — for their unconditional love and prayers.
+- 👨‍👩‍👧‍👦 **My Family** — for their constant belief and support.
+- 📚 **My Teachers & Mentors** — for guiding me with wisdom.
+- 🌍 **The Open Source Community** — for the knowledge and inspiration.
+
+---
+
 <p align="center">
   Made with ❤️ by <b>Jalal Akbar</b><br>
-  All my work dedicated to My ❤️ <b>My Inspiration</b><br><br>
+  All my work dedicated to My J/S ❤️ <b>My Inspiration</b><br><br>
   © 2026 All Rights Reserved
 </p>
