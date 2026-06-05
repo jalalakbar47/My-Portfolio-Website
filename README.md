@@ -181,6 +181,6 @@ Feel free to reach out for collaborations, freelance projects, or just a chat!
 
 <p align="center">
   Made with ❤️ by <b>Jalal Akbar</b><br>
-  All my work dedicated to My J/S ❤️ <b>My Inspiration</b><br><br>
+  All my work dedicated to My ❤️J/S  <b>My Inspiration</b><br><br>
   © 2026 All Rights Reserved
 </p>
