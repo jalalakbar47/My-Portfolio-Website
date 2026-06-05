@@ -168,46 +168,8 @@ Feel free to reach out for collaborations, freelance projects, or just a chat!
 
 ---
 
-## 🕊️ Dedication
-
 <p align="center">
-  <i>"Every line of code I write is a small act of gratitude."</i>
-</p>
-
-**This entire body of work is sincerely dedicated to:**
-
-- 🙏 **My Parents** — for their unconditional love, sacrifices, and endless prayers that have been the greatest source of strength throughout my journey.
-
-- 👨‍👩‍👧‍👦 **My Family** — for always believing in me, even before I believed in myself. Your constant support and encouragement made every late night worth it.
-
-- 📚 **My Teachers & Mentors** — who lit the path of knowledge and guided me with patience, wisdom, and inspiration.
-
-- 🌍 **The Open Source Community** — whose generosity of sharing knowledge freely has shaped me into the developer I am today. I stand on the shoulders of giants.
-
-- 💡 **Every Developer Who Started From Zero** — may your passion never fade. Keep building, keep learning, and keep pushing forward.
-
----
-
-<p align="center">
-  ❤️ &nbsp; <b>Special Dedication</b> &nbsp; ❤️
-</p>
-
-<p align="center">
-  <b>J / S</b><br/>
-  <i>My Inspiration. My Strength. My Everything.</i><br/><br/>
-  You are the silent reason behind every project I build,<br/>
-  every problem I solve, and every dream I chase.<br/>
-  This work — and every work that comes after — is for you. 💛
-</p>
-
----
-
-> *"I dedicate all my work — every project, every app, every line of code — to the people who shaped me, the community that inspired me, and to anyone who dares to dream bigger than their circumstances."*
->
-> — **Jalaluddin Khan**, Full Stack Developer · District Bajaur, Pakistan
-
----
-
-<p align="center">
-  Made with ❤️ by <strong>Jalaluddin Khan</strong> · © 2026 All Rights Reserved
+  Made with ❤️ by <b>Jalal Akbar</b><br>
+  All my work dedicated to My ❤️ <b>My Inspiration</b><br><br>
+  © 2026 All Rights Reserved
 </p>
