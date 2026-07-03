@@ -17,7 +17,7 @@
 
 > A modern, fully responsive personal portfolio website showcasing my projects, skills, and experience as a Full Stack Developer.
 
-🔗 **Live Site:** [jalalakbar47.github.io/My-Portfolio-Website]([https://jalalakbar47.github.io/My-Portfolio-Website](https://my-portfolio-website-chi-henna.vercel.app/))
+🔗 **Live Site:** [jalalakbar47.github.io/My-Portfolio-Website]([[https://jalalakbar47.github.io/My-Portfolio-Website](https://my-portfolio-website-chi-henna.vercel.app/)](https://my-portfolio-website-chi-henna.vercel.app/)
 
 ---
 
