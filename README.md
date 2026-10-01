@@ -5,6 +5,16 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/jalalakbar47/My-Portfolio-Website"><img src="https://img.shields.io/github/languages/top/jalalakbar47/My-Portfolio-Website?style=flat-square" alt="Top language in jalalakbar47/My-Portfolio-Website" /></a>
+  <a href="https://github.com/jalalakbar47/My-Portfolio-Website/stargazers"><img src="https://img.shields.io/github/stars/jalalakbar47/My-Portfolio-Website?style=flat-square" alt="GitHub stars for jalalakbar47/My-Portfolio-Website" /></a>
+  <a href="https://github.com/jalalakbar47/My-Portfolio-Website/network/members"><img src="https://img.shields.io/github/forks/jalalakbar47/My-Portfolio-Website?style=flat-square" alt="GitHub forks for jalalakbar47/My-Portfolio-Website" /></a>
+  <a href="https://github.com/jalalakbar47/My-Portfolio-Website/issues"><img src="https://img.shields.io/github/issues/jalalakbar47/My-Portfolio-Website?style=flat-square" alt="Open issues for jalalakbar47/My-Portfolio-Website" /></a>
+  <a href="https://github.com/jalalakbar47/My-Portfolio-Website/commits/main"><img src="https://img.shields.io/github/last-commit/jalalakbar47/My-Portfolio-Website?style=flat-square" alt="Last commit date for jalalakbar47/My-Portfolio-Website" /></a>
+  <a href="https://github.com/jalalakbar47/My-Portfolio-Website/actions/workflows/copilot-swe-agent/copilot"><img src="https://img.shields.io/github/actions/workflow/status/jalalakbar47/My-Portfolio-Website/copilot-swe-agent%2Fcopilot?branch=main&style=flat-square&label=workflow" alt="Workflow status for jalalakbar47/My-Portfolio-Website" /></a>
+  <a href="https://my-portfolio-website-chi-henna.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-Online-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live deployment for My-Portfolio-Website" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/jalalakbar47"><img src="https://img.shields.io/badge/GitHub-jalalakbar47-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/jalalakbar47/"><img src="https://img.shields.io/badge/LinkedIn-jalalakbar47-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:jalalakbarbjr@gmail.com"><img src="https://img.shields.io/badge/Email-jalalakbarbjr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,7 +27,7 @@
 
 > A modern, fully responsive personal portfolio website showcasing my projects, skills, and experience as a Full Stack Developer.
 
-🔗 **Live Site:** [jalalakbar47.github.io/My-Portfolio-Website]([[https://jalalakbar47.github.io/My-Portfolio-Website](https://my-portfolio-website-chi-henna.vercel.app/)](https://my-portfolio-website-chi-henna.vercel.app/)
+🔗 **Live Site:** [my-portfolio-website-chi-henna.vercel.app](https://my-portfolio-website-chi-henna.vercel.app/)
 
 ---
 
